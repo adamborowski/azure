@@ -1,0 +1,16 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Emulator config file set to c:\users\adam\documents\visual studio 2013\Projects\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] DiagnosticsStoreRootPath set to: C:\Users\adam\AppData\Local\dftmp\Resources\9c50a391-cca0-46a3-afe1-b60498b9de45
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Loading config file: c:\users\adam\documents\visual studio 2013\Projects\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Emulator config file set to c:\users\adam\documents\visual studio 2013\Projects\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:03:31] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:04:41] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [2015-06-24 23:04:41] DiagnosticPlugin exited with code 0
